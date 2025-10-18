@@ -77,7 +77,7 @@ IF(
 
 
 ## Dashboard Preview
-![H1B Petition Dashboard](./uscis h1b.jpg)
+![H1B Petition Dashboard](./uscis%20h1b.jpg)
 
 
 ## How to Use
