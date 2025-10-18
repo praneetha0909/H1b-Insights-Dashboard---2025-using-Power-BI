@@ -1,4 +1,4 @@
-# H1B-Petition-Insights-Dashboard---2025
+# H1B Petition Insights Dashboard---2025
 
 An interactive Power BI Dashboard that provides analytical insights into USCIS H-1B visa petitions for FY2025.
 This project visualizes petition trends, employer performance, and approval statistics across the United States.
